@@ -1,0 +1,26 @@
+{
+  "name": "mister-lyric",
+  "version": "1.0.0",
+  "description": "Play lyrics professional",
+  "keywords": [
+    "lyric",
+    "lyrics"
+  ],
+  "author": "pikachujeff",
+  "license": "MIT",
+  "homepage": "https://github.com/pikachujeff/mister-lyric#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pikachujeff/mister-lyric.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pikachujeff/mister-lyric/issues"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^10.1.1"
+  }
+}
